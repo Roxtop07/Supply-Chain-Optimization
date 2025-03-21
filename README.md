@@ -68,7 +68,7 @@ Download & install Orange3.
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/supply-chain-optimization.git
+git clone https://github.com/Roxtop07/Supply-Chain-Optimization/edit/main/README.md
 cd supply-chain-optimization
 4️⃣ Run the Machine Learning Model
 sh
