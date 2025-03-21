@@ -61,21 +61,20 @@ The project is divided into **four main components**:
 pip install pandas numpy scikit-learn matplotlib seaborn joblib networkx pulp
 ```
 
-2️⃣ Install Orange3
+### **2️⃣ Install Orange3**
 Download & install Orange3.
 
-3️⃣ Clone This Repository
+##**3️⃣ Clone This Repository**
 sh
 Copy
-Edit
-git clone https://github.com/Roxtop07/Supply-Chain-Optimization/edit/main/README.md
-cd supply-chain-optimization
-4️⃣ Run the Machine Learning Model
+git clone https://github.com/Roxtop07/Supply-Chain-Optimization/
+
+### **4️⃣ Run the Machine Learning Model**
 sh
 Copy
-Edit
-python supply_chain_model.py
-5️⃣ Open & Run the Orange Workflow
+python model.py
+
+###**5️⃣ Open & Run the Orange Workflow**
 Open Orange3.
 Click File → Open.
 
@@ -83,7 +82,7 @@ Load Supply_Chain_Optimization.ows.
 
 Run the workflow.
 
-**🚀 Usage Guide**
+###**🚀 Usage Guide**
 *1️⃣ Running the ML Model (Python)*
 Run supply_chain_model.py to train & evaluate the model.
 Model predicts freight cost, plant-port optimization, warehouse efficiency.
@@ -93,7 +92,7 @@ Open Orange3.
 Load InnoUnity.ows.
 Use visual ML pipelines to predict supply chain performance.
 
-**📊 Results & Insights**
+###**📊 Results & Insights**
 ✅ Predicts freight costs for efficient logistics.
 ✅ Optimizes plant-port assignments to reduce shipping delays.
 ✅ Clusters warehouses based on efficiency levels.
