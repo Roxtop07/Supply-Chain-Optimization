@@ -64,7 +64,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn joblib networkx pulp
 # **2️⃣ Install Orange3**
 Download & install Orange3.
 
-##**3️⃣ Clone This Repository**
+# **3️⃣ Clone This Repository**
 sh
 Copy
 git clone https://github.com/Roxtop07/Supply-Chain-Optimization/
@@ -74,7 +74,7 @@ sh
 Copy
 python model.py
 
-###**5️⃣ Open & Run the Orange Workflow**
+# **5️⃣ Open & Run the Orange Workflow**
 Open Orange3.
 Click File → Open.
 
