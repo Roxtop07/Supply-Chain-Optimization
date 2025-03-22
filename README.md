@@ -84,7 +84,7 @@ Run the workflow.
 
 # **🚀 Usage Guide**
 # *1️⃣ Running the ML Model (Python)*
-Run supply_chain_model.py to train & evaluate the model.
+Run model.py to train & evaluate the model.
 Model predicts freight cost, plant-port optimization, warehouse efficiency.
 # **2️⃣ Using the Orange Workflow**
 Open Orange3.
