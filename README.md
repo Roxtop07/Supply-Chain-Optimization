@@ -100,7 +100,7 @@ Use visual ML pipelines to predict supply chain performance.
 
 
 
-🤝 Contributing
+**🤝 Contributing**
 We welcome contributions!
 
 Fork this repo and make improvements.
